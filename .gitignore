@@ -53,10 +53,6 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle
 out/
-gradlew
-gradlew.bat
-*.gradle
-HELP.md
 .idea
 gradle
 
