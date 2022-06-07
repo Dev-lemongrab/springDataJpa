@@ -55,4 +55,8 @@ gradle-app.setting
 out/
 gradlew
 gradlew.bat
+*.gradle
+HELP.md
+.idea
+gradle
 
